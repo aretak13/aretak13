@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [developing a jekyll website](https://crl.utm.utoronto.ca/crl/)
 
-- ✏️ I’m currently learning **Django, React and C programming!**
+- ✏️ I’m currently learning **Django, React and C++ programming!**
 
 - 💻 aand I'm also producing [a podcast](https://open.spotify.com/show/3pzjLJG5Tta8jpLRo0UNa0)
 
