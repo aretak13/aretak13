@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Areta 👋</h1>
 <h3 align="center">I'm a computer science student at UTM and a web content developer!</h3>
 
-- 🔭 I’m currently working on [developing a jekyll website](https://crl.utm.utoronto.ca/crl/)
+- 🔭 I’m currently working on [developing a jekyll website](https://crl.utm.utoronto.ca/)
 
 - ✏️ I’m currently learning **Django, React and C++ programming!**
 
